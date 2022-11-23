@@ -53,4 +53,9 @@
 **IDE**
 - IntelliJ
 
-## Document
+## Resource
+**Backend**
+https://github.com/middlefitting/TheBoard-Service
+
+**FrontEnd**
+https://github.com/middlefitting/TheBoard-ClientWeb
